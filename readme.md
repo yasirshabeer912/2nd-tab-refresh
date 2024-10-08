@@ -1,0 +1,1 @@
+extesion that refresh 2nd tab of chrome
